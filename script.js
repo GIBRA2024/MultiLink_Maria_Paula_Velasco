@@ -1,8 +1,8 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-FN: Maria Velasco GEB
-TEL: +57 3157605306
+FN:Maria Velasco GEB
+TEL:+57 3157605306
 EMAIL: maria.velasco@eurobelleza.com
 NOTE: Manufacturing coordinator 
 END:VCARD`;
